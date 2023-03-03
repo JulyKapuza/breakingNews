@@ -7,8 +7,8 @@ Breaking News web application about news
 You can:
 ## / - view the most popular news
 
-## /news - you can download more, delete the news 
+## /news -  download more, delete the posts 
 
-## /login - enter please username: "admin",  password: "12345" and you will go to the /profile
+## /login - enter username: "admin",  password: "12345" and you will go to the /profile
 
 
