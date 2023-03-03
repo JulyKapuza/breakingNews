@@ -2,19 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## How to run a project
+Breaking News web application about news
 
-1. Start JSON Server
-
-### `yarn / npm start(run) server`
-
-2. Perform the command
-
-### `npm start`
-
-3. Follow the link
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+You can:
+/ - view the most popular news
+/news - you can download more, delete the news 
+/login - enter please username: "admin",  password: "12345" and you will go to the /profile
 
 
